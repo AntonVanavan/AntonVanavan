@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Anton
-- 🌱 I’m currently learning AI/ML
-
+ML aspirant
 
 <!---
 AntonVanavan/AntonVanavan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
